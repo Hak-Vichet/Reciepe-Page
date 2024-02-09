@@ -2,7 +2,6 @@
   <div class="flex items-center justify-center h-full bg-orange-100 p-10">
     <div class="max-w-lg bg-white p-4 my-20 rounded-2xl space-y-4">
       <img src="/image-omelette.jpeg" alt="image" class="rounded-xl" />
-
       <h1 class="text-xl text-gray-700 font-bold">Simple Omelette</h1>
       <p class="text-gray-400 text-xs">
         An easy and quick dish, perfect for any meal. The classic omelette

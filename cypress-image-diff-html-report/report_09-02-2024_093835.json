@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "totalPassed": 0,
+  "totalFailed": 1,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "home.cy.js",
+      "path": "cypress/e2e/home.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "home.cy-",
+          "percentage": 0.25021743857039597,
+          "failureThreshold": 0,
+          "specPath": "cypress/e2e/home.cy.js",
+          "specFilename": "home.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots/baseline/home.cy-.png",
+          "diffPath": "cypress-image-diff-screenshots/diff/home.cy-.png",
+          "comparisonPath": "cypress-image-diff-screenshots/comparison/home.cy-.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2024-02-09T02:38:35.514Z",
+  "endedAt": "2024-02-09T02:38:37.378Z",
+  "duration": 1864,
+  "browserName": "electron",
+  "browserVersion": "114.0.5735.289",
+  "cypressVersion": "13.6.4"
+}

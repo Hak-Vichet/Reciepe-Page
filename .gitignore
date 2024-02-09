@@ -13,6 +13,9 @@ dist
 dist-ssr
 coverage
 *.local
+cypress/cypress-image-diff-html-report
+cypress/cypress-image-diff-screenshots/comparison
+cypress/cypress-image-diff-screenshots/diff
 
 /cypress/videos/
 /cypress/screenshots/
